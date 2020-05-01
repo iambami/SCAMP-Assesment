@@ -1,4 +1,5 @@
-﻿i = 0
+Number = int(input("\nPlease Enter the Range Number: "))
+i = 0
 Value_One = 0
 Value_Two = 1
            
